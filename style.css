@@ -22,7 +22,7 @@ body {
   padding: 1.5rem;
   background-color: #f0e8c2;
   border-radius: 1.5rem;
-  margin: 3rem auto;
+  margin: 3rem auto 1.75rem;
 }
 
 img {
@@ -58,4 +58,14 @@ h1, h2 {
 
 ul {
   padding-left: 1.5rem;
+}
+
+footer {
+  color: #F0E8C2;
+  text-align: center;
+  padding-bottom: 3rem;
+}
+
+footer img {
+  vertical-align: middle;
 }
